@@ -3,11 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maryqu3en&label=Visitors&color=9c75d7&style=flat-square" alt="maryqu3en" /> </p>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryqu3en&theme=discord&no-bg=true&no-frame=true&margin-w=25&column=6" alt="maryqu3en" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryqu3en&theme=tokyonight&no-bg=true&no-frame=true&margin-w=25&column=6" alt="maryqu3en" /></a> </p>
 
 <hr>
 <h3 align="center">Connect with me:</h3>
-<hr>
 
 <p align="left">
 <div align="left">
@@ -28,7 +27,6 @@
 
 <hr>
 <h3 align="center">Languages and Tools:</h3>
-<hr>
 
 <p align="left"> <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -64,7 +62,6 @@
 
 <hr>
 <h3 align="center">Stats</h3>
-<hr>
 
 <img align="left" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryqu3en&layout=compact&theme=tokyonight" alt=maryqu3en />
 
@@ -74,6 +71,5 @@
 
 <hr>
 <h3 align="center">Contribution Graph</h3>
-<hr>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=maryqu3en&bg_color=000000&line=b5c8e6&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=maryqu3en&bg_color=000000&line=7eaffc&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
