@@ -61,7 +61,7 @@
 </div> </p>
 
 <hr>
-<h3 align="center">Stats</h3>
+<!-- <h3 align="center">Stats</h3> -->
 
 <img align="left" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryqu3en&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" alt=maryqu3en />
 
@@ -70,6 +70,6 @@
 <!-- <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maryqu3en&theme=tokyonight&&bg_color=00000000&hide_border=true" alt="maryqu3en" /></p> -->
 
 <hr>
-<h3 align="center">Contribution Graph</h3>
+<!-- <h3 align="center">Contribution Graph</h3> -->
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=maryqu3en&bg_color=000000&line=7eaffc&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
