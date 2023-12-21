@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryqu3en&label=Visitors&color=9c75d7&style=flat-square" alt="maryqu3en" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryqu3en&theme=darkhub" alt="maryqu3en" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryqu3en&theme=tokyonight&no-bg=true" alt="maryqu3en" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,17 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div> </p>
 
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryqu3en&show_icons=true&locale=en&layout=compact" alt="maryqu3en" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryqu3en&show_icons=true&locale=en" alt="maryqu3en" /></p>
-
-
-
 
 <h3>Contribution Graph</h3>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=maryqu3en&bg_color=000000&line=b5c8e6&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
