@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Meriem</h1>
-<h3 align="center">A passionate computer science student from Algeria</h3>
+<h1 align="center" style="color: #9c75d7; font-family: 'serif', sans-serif;">Hi , I'm <span style="color: #FFFF">Meriem</span></h1>
+<h3 align="center" style=" font-family: 'serif', sans-serif;">A code <span style="color: #9c75d7;">conjurer</span> and pixel poet on a mission to turn <span style="color: #7eaffc">spaghetti</span> into <span style="color: #7eaffc">code</span>. By day, I'm a CS student fighting my way through the lectures; by night, I craft elegant solutions to complex problems.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maryqu3en&label=Visitors&color=9c75d7&style=flat-square" alt="maryqu3en" /> </p>
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryqu3en&theme=tokyonight&no-bg=true&no-frame=true&margin-w=25&column=6" alt="maryqu3en" /></a> </p>
 
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" >Let's sync up!</h3>
 
 <p align="left">
 <div align="center">
