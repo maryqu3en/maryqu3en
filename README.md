@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Meriem</h1>
 <h3 align="center">A passionate computer science student from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryqu3en&label=Visitors&color=9c75d7&style=flat-square" alt="maryqu3en" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maryqu3en&label=Visitors&color=9c75d7&style=flat-square" alt="maryqu3en" /> </p>
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryqu3en&theme=discord&no-bg=true&no-frame=true&margin-w=25&column=6" alt="maryqu3en" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<hr>
+<h3 align="center">Connect with me:</h3>
+<hr>
+
 <p align="left">
 <div align="left">
   <a href="https://www.linkedin.com/in/meriem-soubih-864390254/" target="_blank">
@@ -23,7 +26,10 @@
 </div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+<h3 align="center">Languages and Tools:</h3>
+<hr>
+
 <p align="left"> <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -56,9 +62,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryqu3en&show_icons=true&locale=en&layout=compact" alt="maryqu3en" /></p>
+<hr>
+<h3 align="center">Stats</h3>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryqu3en&show_icons=true&locale=en" alt="maryqu3en" /></p>
+<img align="left" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryqu3en&layout=compact&theme=tokyonight" alt=maryqu3en />
 
-<h3>Contribution Graph</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryqu3en&show_icons=true&locale=en&theme=tokyonight" alt="maryqu3en" />
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maryqu3en&theme=tokyonight" alt="Meriem1551" /></p>
+
+<hr>
+<h3 align="center">Contribution Graph</h3>
+<hr>
+
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=maryqu3en&bg_color=000000&line=b5c8e6&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
