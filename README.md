@@ -72,4 +72,4 @@
 <hr>
 <!-- <h3 align="center">Contribution Graph</h3> -->
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=maryqu3en&bg_color=000000&line=7eaffc&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=maryqu3en&bg_color=0000&line=7eaffc&point=FFFF&area_color=9c75d7&area=true&color=9c75d7"/>
