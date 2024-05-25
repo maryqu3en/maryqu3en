@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: serif;">Hi , I'm <span style="color: #FFFF">Meriem</span></h1>
+<h1 align="center" >Hi , I'm <span style="color: #FFFF">Meriem</span></h1>
 <h3 align="center" >A code conjurer and pixel poet on a mission to turn spaghetti into code. By day, I'm a CS student fighting my way through the lectures; by night, I craft elegant solutions to complex problems.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maryqu3en&label=Visitors&color=9c75d7&style=flat-square" alt="maryqu3en" /> </p>
