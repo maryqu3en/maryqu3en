@@ -1,4 +1,4 @@
-<h1 align="center" >Hi , I'm <span style="color: #FFFF">Meriem</span></h1>
+<h1 align="center" style="font-family: serif;">Hi , I'm <span style="color: #FFFF">Meriem</span></h1>
 <h3 align="center" >A code conjurer and pixel poet on a mission to turn spaghetti into code. By day, I'm a CS student fighting my way through the lectures; by night, I craft elegant solutions to complex problems.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maryqu3en&label=Visitors&color=9c75d7&style=flat-square" alt="maryqu3en" /> </p>
@@ -29,7 +29,7 @@
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 
-<div align="left">
+<div align="center" style="background-color: #fbf7ff; padding: 8px; border-radius: 8px;" >
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
