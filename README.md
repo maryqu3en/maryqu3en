@@ -43,6 +43,7 @@ const meriem = {
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">📧 <b>Contact:</b> <a href="mailto:soubih.meriem@gmail.com">soubih.meriem@gmail.com</a></p>
+
 ---
 
 <h3 align="center">GitHub Stats</h3>
