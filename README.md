@@ -2,10 +2,6 @@
 <h3 align="center">A curious coder, digital dreamer, and lifelong learner 🌌</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=9C75D7&center=true&vCenter=true&multiline=true&width=500&lines=CS+Student+by+Day;Bug+Buster+by+Night;Lover+of+Pixel+Poetry;Full-stack+Dev+in+Training;Building+things+that+actually+work+%F0%9F%A4%AF" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=maryqu3en&label=Visitors&color=9c75d7&style=flat-square" alt="Visitor Count"/>
 </p>
 
