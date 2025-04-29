@@ -1,5 +1,5 @@
-<h1 align="center">✨ Meriem the Code Sorceress ✨</h1>
-<h3 align="center">🪄 Turning bugs into features since... way too recently.</h3>
+<h1 align="center">Hey there, I'm <span style="color: #FFFF">Meriem</span></h1>
+<h3 align="center">A curious coder, digital dreamer, and lifelong learner 🌌</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=9C75D7&center=true&vCenter=true&multiline=true&width=500&lines=CS+Student+by+Day;Bug+Buster+by+Night;Lover+of+Pixel+Poetry;Full-stack+Dev+in+Training;Building+things+that+actually+work+%F0%9F%A4%AF" alt="Typing SVG" />
@@ -11,26 +11,29 @@
 
 ---
 
-### 🌌 About Me
-```js
+<h3 align="center">About Me</h3>
+<p align="center">
+  By day, I'm a CS student navigating the labyrinth of algorithms and data structures. By night, I transform caffeine into code and ideas into reality. Whether it's crafting clean solutions or exploring new tech, I'm always up for a challenge. 
+</p>
+<!-- ```js
 const meriem = {
   role: "Full-time dreamer, part-time debugger",
   interests: ["backend alchemy", "UI design sorcery", "anime logic", "space aesthetics"],
   codeMagic: ["JavaScript", "Node.js", "React", "Python", "C++", "Go", "Lua"],
   funFact: "I can explain recursion... once I understand it again.",
 }
-```
+``` -->
 
 ---
 
-### 🏆 Dev Shrine
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maryqu3en&theme=tokyonight&no-frame=true&margin-w=20&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 🔮 Skills & Tools
+<h3 align="center">Skills & Tools</h3>
 
 <div align="center">
   <!-- Languages -->
@@ -41,7 +44,7 @@ const meriem = {
 
 ---
 
-### 🌍 Find Me in the Void:
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/meriem-soubih-864390254/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
@@ -54,7 +57,7 @@ const meriem = {
 
 ---
 
-### 📊 Stats That Sparkle
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maryqu3en&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em"/>
@@ -67,13 +70,9 @@ const meriem = {
 
 ---
 
-### 🔁 Contribution Graph of Chaos
+<h3 align="center">Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryqu3en&bg_color=00000000&color=9c75d7&line=7eaffc&point=FFFFFF&area=true" />
 </p>
-
----
-
-<h4 align="center">✨ "Code is poetry. Sometimes messy poetry, but poetry nonetheless." ✨</h4>
 
