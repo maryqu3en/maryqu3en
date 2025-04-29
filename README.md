@@ -42,15 +42,7 @@ const meriem = {
 
 <h3 align="center">Connect with Me</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/meriem-soubih-864390254/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://www.facebook.com/helianth.leukothea/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="30" /></a>
-  <a href="https://www.instagram.com/maryqu3en/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
-  <a href="https://discord.com/users/994254190866092103" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
-</p>
-
 <p align="center">📧 <b>Contact:</b> <a href="mailto:soubih.meriem@gmail.com">soubih.meriem@gmail.com</a></p>
-
 ---
 
 <h3 align="center">GitHub Stats</h3>
